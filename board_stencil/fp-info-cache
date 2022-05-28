@@ -1,0 +1,50 @@
+11563721463397
+dip
+SK6805-EC
+
+
+0
+4
+4
+dip
+SMT_Edge_Female
+
+
+0
+1
+1
+dip
+SMT_Edge_Male
+
+
+0
+1
+1
+dip
+TestPoint_Pad_D2.0mm
+SMD pad as test Point, diameter 2.0mm
+test point SMD pad
+0
+1
+1
+dip
+USB_C_Plug_edge_launch
+Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, https://www.jae.com/en/searchfilter/?topics_keyword=DX07P024AJ1&mainItemSelect=1
+USB Type-C Plug Edge Mount
+0
+22
+13
+dip
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+dip
+USB_C_Receptacle_HRO_TYPE-C-31-M-12_PASTE
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
