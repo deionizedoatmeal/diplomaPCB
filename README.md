@@ -14,18 +14,14 @@
 | Voltage Regulator | 4     | SOT-23-5         | AP2112K-3.3    |                           |
 | USB-C Receptacle | 5      | SMD              |                |                           |
 | USB-C Plug     | 4        | SMD Edge Launch  | | [Adafruit](adafruit.com/product/4932) [Digikey](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4932/13997774) |
-| -------------- |:--------:|:----------------:|:--------------:|:-------------------------:|
 | Resistor       | 23       | 0603/1608 Metric | 300 Ω          |                           |
 | Resistor       | 10       | 0603/1608 Metric | 1 kΩ           |                           |
 | Resistor       | 2        | 0603/1608 Metric | 5.11 kΩ        |                           |
 | Resistor       | 60       | 0603/1608 Metric | 10 kΩ          |                           |
 | Resistor       | 9        | 0603/1608 Metric | 1 MΩ           |                           |
-| -------------- |:--------:|:----------------:|:--------------:|:-------------------------:|
 | Resistor       | 2        | 0402/1005 Metric | 27 Ω           |                           |
-| -------------- |:--------:|:----------------:|:--------------:|:-------------------------:|
 | Capacitor      | 45       | 0805/2012 Metric | 0.1 µF         |                           |
 | Capacitor      | 20       | 0085/2012 Metric | 10 µF          |                           |
-| -------------- |:--------:|:----------------:|:--------------:|:-------------------------:|
 | Capacitor      | 2        | 0402/1005 Metric | 27 pF          |                           |
 | Capacitor      | 10       | 0402/1005 Metric | 100 nF         |                           |
 | Capacitor      | 2        | 0402/1005 Metric | 1 µF           |                           |
