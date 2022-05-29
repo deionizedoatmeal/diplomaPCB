@@ -225,7 +225,7 @@ def fall_sup_check():
 def get_sup_piece(sup_center):
     """uses ADC to retrieve the color the piece on a supply center"""
     # returns color based on voltage, voltages are:
-    # 0.000 V -> none   => 1 MΩ
+    # 0.000 V -> none   => no connection
     # 0.471 V -> red    => 60 kΩ 
     # 0.943 V -> green  => 25 kΩ
     # 1.414 V -> blue   => 13.4 kΩ

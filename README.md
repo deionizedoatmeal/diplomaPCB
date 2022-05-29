@@ -31,7 +31,6 @@ Parts for the board:
 Parts for the game pieces (assuming 20 pieces for each nationality):
 | Part           | Quantity | Package          | Value          | Link                      |
 | -------------- |:--------:|:----------------:|:--------------:|:-------------------------:|
-| Resistor       | 20       | Through Hole     | 1 MΩ           |                           |
 | Resistor       | 20       | Through Hole     | 60 kΩ          |                           |
 | Resistor       | 20       | Through Hole     | 25 kΩ          |                           |
 | Resistor       | 20       | Through Hole     | 13.4 kΩ        |                           |
